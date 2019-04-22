@@ -22,3 +22,12 @@ Y2 = w * X + b
 plt.plot(X, Y2, color='r')
 
 plt.show()
+
+'''
+https://blog.csdn.net/jayloncheng/article/details/80300724
+
+用最小二乘法进行线性拟合
+
+https://blog.csdn.net/Jack_Zhao_/article/details/81975405
+
+'''
